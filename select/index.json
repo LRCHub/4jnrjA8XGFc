@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "雪花繚乱",
+  "base_artist": "プリンセス・ヴィオラ(CV.鬼頭明里)、プリンセス・ネージュ(CV.伊藤美来)、プリンセッション・オーケストラ",
+  "createdAt": "2025-12-20T14:28:21.114644Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪花繚乱",
+      "artist": "プリンセス・ヴィオラ(CV.鬼頭明里)/プリンセス・ネージュ(CV.伊藤美来)/プリンセッション・オーケストラ",
+      "has_synced": false,
+      "path": "select/pl_01_雪花繚乱_プリンセス・ヴィオラ(CV.鬼頭明里)_プリンセス・ネージュ(CV.伊藤美来)_プリンセッション・オーケストラ.txt"
+    }
+  ]
+}
